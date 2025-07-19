@@ -1,1 +1,1 @@
-OUBLIC
+public int java{}
